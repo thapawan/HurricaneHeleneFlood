@@ -1,7 +1,8 @@
-Assessing the Impact of Hurricane Helene on River Dynamics in East Tennessee and Western North Carolina 🏞️
-This project investigates the hydrological and geomorphological impacts of Hurricane Helene on major river systems in East Tennessee and Western North Carolina. The study focuses on pre- and post-flood conditions to understand changes in river dynamics, including water levels, flow velocity, and potential geomorphic changes.
+## Assessing the Impact of Hurricane Helene on River Dynamics in East Tennessee and Western North Carolina 
 
-🗺️ Study Area
+🏞️This project investigates the hydrological and geomorphological impacts of Hurricane Helene on major river systems in East Tennessee and Western North Carolina. The study focuses on pre- and post-flood conditions to understand changes in river dynamics, including water levels, flow velocity, and potential geomorphic changes.
+
+### 🗺️ Study Area
 The primary study area includes the basins of several key rivers:
 
 Western North Carolina: French Broad River and its major tributary, the Swannanoa River, particularly in and around Asheville.
@@ -10,14 +11,14 @@ Eastern Tennessee: Nolichucky River, Upper French Broad River, and Pigeon River.
 
 The study area encompasses the state boundary between Tennessee and North Carolina.
 
-📅 Data Collection Timeline
+### 📅 Data Collection Timeline
 Data was collected in two primary phases:
 
 Pre-Flood Data: Early to mid-September 2024 to establish baseline conditions.
 
 Post-Flood Data: Late September to early October 2024 (specifically September 26-29 for peak flood and early October for post-flood conditions) to capture the impact of Hurricane Helene.
 
-📊 Datasets and Tools
+### 📊 Datasets and Tools
 A variety of datasets and tools were used to conduct the assessment:
 
 Topographic Data:
@@ -44,7 +45,7 @@ HEC-RAS 2D Unsteady Flow: Utilized to simulate the flood event, model water surf
 
 ArcGIS/ESRI Software: Employed for geospatial analysis, data visualization, and processing of various datasets.
 
-📝 Project Goals
+### 📝 Project Goals
 The primary goals of this project are:
 
 To quantify the changes in river stage and discharge rates before, during, and after Hurricane Helene.
